@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;*{box-sizing:border-box;margin:0;padding:0}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#f5f5f5;font-family:Roboto,sans-serif}@layer components{.btn-primary,.btn-secondary,.card,.seat,.seat-available,.seat-occupied,.seat-selected{@apply bg-red-500 border-red-600 cursor-not-allowed}}
+/*# sourceMappingURL=main.3c00f2b5.css.map*/
